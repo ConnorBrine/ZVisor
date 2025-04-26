@@ -1,7 +1,7 @@
 # ZVisor - Copyright by NguyenKhang/ConnorBrine
-ZVisor is the Shooting Game, as part of concept of HLC Project
+ZVisor is the Alpha Shooting Game, as part of concept of HLC Project
 
-This is a prototype / alpha game for ZVisor which is not the final product in the game, please if you have getting any issue during gameplay, give me feedback in my email:
+This is alpha concept for the HLC Project which is not the final product in the game, which is not the release as need for copyright with assets, please if you have getting any issue during gameplay or report with asset copyright, give me feedback in my email:
 
 nguyenkhang9a1thcsttlp@gmail.com
 
